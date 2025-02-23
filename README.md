@@ -1,11 +1,10 @@
 # 👋 Hey, I'm Bernardo Vieira  
 
-🎯 **Aspiring Machine Learning Engineer** | Studying **Backend and Software Development**
+🎯 **Aspiring Machine Learning Engineer** | Training in **Software Development & Backend**  
 
 ## 🚀 Skills  
-- **Languages:** Python (OOP, Design Patterns), C#, SQL, HTML, CSS  
-- **Tools:** Git, GitHub, MYSQL
-- **Learning:** Django, Backend Development
-
+- **Languages:** Python (OOP, Design Patterns – Factory Methods), C#, SQL, HTML, CSS  
+- **Tools:** Git, GitHub, SQLite
+- **Learning:** Django, Pandas, Backend Development e etc...
 
 📫 **Contact:** bernardovdev@gmail.com  
